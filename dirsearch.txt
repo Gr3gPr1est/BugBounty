@@ -1,0 +1,1 @@
+dirsearch -w /home/bughunter/BugBounty/alltime_project/bb_wordlist/Sn1p3r.txt -E -L /home/bughunter/BugBounty/rebellion/httprobe.txt  --plain-text-report=webcontent.txt -t 1000
